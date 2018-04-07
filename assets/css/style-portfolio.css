@@ -1,0 +1,20 @@
+.content-notfooter{
+    background: radial-gradient(circle, rgba(15,49,78,1) 0%, rgba(29,97,179,1) 100%);
+
+}
+#wrapper{
+    width: 60%;
+}
+
+.flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    align-content: left;
+}
+.flex-item{
+    width: 30%;
+    height: 200px;
+    background: seagreen;
+    margin: 1%;
+}
